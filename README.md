@@ -4,5 +4,5 @@ There is simple project written on Reac Native.
 
 &nbsp;&nbsp;
    <kbd>
-    <img src="./examples/mobileApp.gif" >
+    <img src="./example/mobileApp.gif" >
    </kbd>
